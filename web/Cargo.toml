@@ -25,6 +25,6 @@ tracing = { version = "0.1.26", default-features = false }
 tracing-log = { version = "0.1.1", default-features = false, features = ["env_logger"] }
 tracing-subscriber = { version = "0.3.16", default-features = false, features = ["ansi", "fmt"] }
 twilight-embed-builder = { version = "0.4.1", default-features = false }
-twilight-http = { version = "0.4.1", default-features = false, features = ["rustls-webpki-roots"] }
-twilight-model = { version = "0.4.1", default-features = false }
+twilight-http = { version = "0.4.2", default-features = false, features = ["rustls-webpki-roots"] }
+twilight-model = { version = "0.4.2", default-features = false }
 url = { version = "2.2.2", default-features = false }
